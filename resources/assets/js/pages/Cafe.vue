@@ -90,6 +90,7 @@
 
     /* Medium only */
     @media screen and (min-width: 40em) and (max-width: 63.9375em) {
+        
     }
 
     /* Large only */
