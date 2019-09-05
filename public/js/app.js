@@ -512,8 +512,8 @@ switch ("development") {
         app_url = 'http://roast.test';
         break;
     case 'production':
-        api_url = 'http://roast.demo.laravelacademy.org/api/v1';
-        app_url = 'http://roast.demo.laravelacademy.org';
+        api_url = 'http://coffee.raohouhai.com/api/v1';
+        app_url = 'http://coffee.raohouhai.com';
         break;
 }
 
